@@ -1,0 +1,607 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 110;
+	objects = {
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3405A3B43062B4E000B4F27E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolder = None;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		3445C6533062B5110021CE72 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolder = None;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		3445C65E3062BE4A0021CE72 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolder = None;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		3445C6693062C15D0021CE72 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolder = None;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		3445C6743062C4FC0021CE72 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolder = None;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		3445C67F3062C50C0021CE72 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolder = None;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3405A3B63062B4E000B4F27E /* lab4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lab4; sourceTree = BUILT_PRODUCTS_DIR; };
+		3445C6553062B5110021CE72 /* test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test; sourceTree = BUILT_PRODUCTS_DIR; };
+		3445C6603062BE4A0021CE72 /* ex2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ex2; sourceTree = BUILT_PRODUCTS_DIR; };
+		3445C66B3062C15D0021CE72 /* ex3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ex3; sourceTree = BUILT_PRODUCTS_DIR; };
+		3445C6763062C4FC0021CE72 /* ex43 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ex43; sourceTree = BUILT_PRODUCTS_DIR; };
+		3445C6813062C50C0021CE72 /* ex4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ex4; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3445C6613062BE4A0021CE72 /* ex2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ex2;
+			sourceTree = "<group>";
+		};
+		3445C66C3062C15D0021CE72 /* ex3 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ex3;
+			sourceTree = "<group>";
+		};
+		3445C6823062C50C0021CE72 /* ex4 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ex4;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3405A3B33062B4E000B4F27E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3445C6523062B5110021CE72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3445C65D3062BE4A0021CE72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3445C6683062C15D0021CE72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3445C6733062C4FC0021CE72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+		3445C67E3062C50C0021CE72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3405A3AD3062B4E000B4F27E = {
+			isa = PBXGroup;
+			children = (
+				3445C6613062BE4A0021CE72 /* ex2 */,
+				3445C66C3062C15D0021CE72 /* ex3 */,
+				3445C6823062C50C0021CE72 /* ex4 */,
+				3405A3B73062B4E000B4F27E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3405A3B73062B4E000B4F27E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3405A3B63062B4E000B4F27E /* lab4 */,
+				3445C6553062B5110021CE72 /* test */,
+				3445C6603062BE4A0021CE72 /* ex2 */,
+				3445C66B3062C15D0021CE72 /* ex3 */,
+				3445C6763062C4FC0021CE72 /* ex43 */,
+				3445C6813062C50C0021CE72 /* ex4 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3405A3B53062B4E000B4F27E /* lab4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3405A3BD3062B4E000B4F27E /* Build configuration list for PBXNativeTarget "lab4" */;
+			buildPhases = (
+				3405A3B23062B4E000B4F27E /* Sources */,
+				3405A3B33062B4E000B4F27E /* Frameworks */,
+				3405A3B43062B4E000B4F27E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			name = lab4;
+			productName = lab4;
+			productReference = 3405A3B63062B4E000B4F27E /* lab4 */;
+			productType = "com.apple.product-type.tool";
+		};
+		3445C6543062B5110021CE72 /* test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3445C65B3062B5110021CE72 /* Build configuration list for PBXNativeTarget "test" */;
+			buildPhases = (
+				3445C6513062B5110021CE72 /* Sources */,
+				3445C6523062B5110021CE72 /* Frameworks */,
+				3445C6533062B5110021CE72 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			name = test;
+			productName = test;
+			productReference = 3445C6553062B5110021CE72 /* test */;
+			productType = "com.apple.product-type.tool";
+		};
+		3445C65F3062BE4A0021CE72 /* ex2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3445C6643062BE4A0021CE72 /* Build configuration list for PBXNativeTarget "ex2" */;
+			buildPhases = (
+				3445C65C3062BE4A0021CE72 /* Sources */,
+				3445C65D3062BE4A0021CE72 /* Frameworks */,
+				3445C65E3062BE4A0021CE72 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				3445C6613062BE4A0021CE72 /* ex2 */,
+			);
+			name = ex2;
+			productName = ex2;
+			productReference = 3445C6603062BE4A0021CE72 /* ex2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		3445C66A3062C15D0021CE72 /* ex3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3445C66F3062C15D0021CE72 /* Build configuration list for PBXNativeTarget "ex3" */;
+			buildPhases = (
+				3445C6673062C15D0021CE72 /* Sources */,
+				3445C6683062C15D0021CE72 /* Frameworks */,
+				3445C6693062C15D0021CE72 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				3445C66C3062C15D0021CE72 /* ex3 */,
+			);
+			name = ex3;
+			productName = ex3;
+			productReference = 3445C66B3062C15D0021CE72 /* ex3 */;
+			productType = "com.apple.product-type.tool";
+		};
+		3445C6753062C4FC0021CE72 /* ex43 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3445C67A3062C4FC0021CE72 /* Build configuration list for PBXNativeTarget "ex43" */;
+			buildPhases = (
+				3445C6723062C4FC0021CE72 /* Sources */,
+				3445C6733062C4FC0021CE72 /* Frameworks */,
+				3445C6743062C4FC0021CE72 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			name = ex43;
+			productName = ex43;
+			productReference = 3445C6763062C4FC0021CE72 /* ex43 */;
+			productType = "com.apple.product-type.tool";
+		};
+		3445C6803062C50C0021CE72 /* ex4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3445C6853062C50C0021CE72 /* Build configuration list for PBXNativeTarget "ex4" */;
+			buildPhases = (
+				3445C67D3062C50C0021CE72 /* Sources */,
+				3445C67E3062C50C0021CE72 /* Frameworks */,
+				3445C67F3062C50C0021CE72 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				3445C6823062C50C0021CE72 /* ex4 */,
+			);
+			name = ex4;
+			productName = ex4;
+			productReference = 3445C6813062C50C0021CE72 /* ex4 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3405A3AE3062B4E000B4F27E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2700;
+				TargetAttributes = {
+					3405A3B53062B4E000B4F27E = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					3445C6543062B5110021CE72 = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					3445C65F3062BE4A0021CE72 = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					3445C66A3062C15D0021CE72 = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					3445C6753062C4FC0021CE72 = {
+						CreatedOnToolsVersion = 27.0;
+					};
+					3445C6803062C50C0021CE72 = {
+						CreatedOnToolsVersion = 27.0;
+					};
+				};
+			};
+			buildConfigurationList = 3405A3B13062B4E000B4F27E /* Build configuration list for PBXProject "lab4" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3405A3AD3062B4E000B4F27E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3405A3B73062B4E000B4F27E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3405A3B53062B4E000B4F27E /* lab4 */,
+				3445C6543062B5110021CE72 /* test */,
+				3445C65F3062BE4A0021CE72 /* ex2 */,
+				3445C66A3062C15D0021CE72 /* ex3 */,
+				3445C6753062C4FC0021CE72 /* ex43 */,
+				3445C6803062C50C0021CE72 /* ex4 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3405A3B23062B4E000B4F27E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3445C6513062B5110021CE72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3445C65C3062BE4A0021CE72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3445C6673062C15D0021CE72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3445C6723062C4FC0021CE72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+		3445C67D3062C50C0021CE72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3405A3BB3062B4E000B4F27E /* Debug configuration for PBXProject "lab4" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		3405A3BC3062B4E000B4F27E /* Release configuration for PBXProject "lab4" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		3405A3BE3062B4E000B4F27E /* Debug configuration for PBXNativeTarget "lab4" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3405A3BF3062B4E000B4F27E /* Release configuration for PBXNativeTarget "lab4" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3445C6593062B5110021CE72 /* Debug configuration for PBXNativeTarget "test" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3445C65A3062B5110021CE72 /* Release configuration for PBXNativeTarget "test" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3445C6653062BE4A0021CE72 /* Debug configuration for PBXNativeTarget "ex2" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3445C6663062BE4A0021CE72 /* Release configuration for PBXNativeTarget "ex2" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3445C6703062C15D0021CE72 /* Debug configuration for PBXNativeTarget "ex3" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3445C6713062C15D0021CE72 /* Release configuration for PBXNativeTarget "ex3" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3445C67B3062C4FC0021CE72 /* Debug configuration for PBXNativeTarget "ex43" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3445C67C3062C4FC0021CE72 /* Release configuration for PBXNativeTarget "ex43" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		3445C6863062C50C0021CE72 /* Debug configuration for PBXNativeTarget "ex4" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3445C6873062C50C0021CE72 /* Release configuration for PBXNativeTarget "ex4" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3405A3B13062B4E000B4F27E /* Build configuration list for PBXProject "lab4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3405A3BB3062B4E000B4F27E /* Debug configuration for PBXProject "lab4" */,
+				3405A3BC3062B4E000B4F27E /* Release configuration for PBXProject "lab4" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3405A3BD3062B4E000B4F27E /* Build configuration list for PBXNativeTarget "lab4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3405A3BE3062B4E000B4F27E /* Debug configuration for PBXNativeTarget "lab4" */,
+				3405A3BF3062B4E000B4F27E /* Release configuration for PBXNativeTarget "lab4" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3445C65B3062B5110021CE72 /* Build configuration list for PBXNativeTarget "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3445C6593062B5110021CE72 /* Debug configuration for PBXNativeTarget "test" */,
+				3445C65A3062B5110021CE72 /* Release configuration for PBXNativeTarget "test" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3445C6643062BE4A0021CE72 /* Build configuration list for PBXNativeTarget "ex2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3445C6653062BE4A0021CE72 /* Debug configuration for PBXNativeTarget "ex2" */,
+				3445C6663062BE4A0021CE72 /* Release configuration for PBXNativeTarget "ex2" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3445C66F3062C15D0021CE72 /* Build configuration list for PBXNativeTarget "ex3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3445C6703062C15D0021CE72 /* Debug configuration for PBXNativeTarget "ex3" */,
+				3445C6713062C15D0021CE72 /* Release configuration for PBXNativeTarget "ex3" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3445C67A3062C4FC0021CE72 /* Build configuration list for PBXNativeTarget "ex43" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3445C67B3062C4FC0021CE72 /* Debug configuration for PBXNativeTarget "ex43" */,
+				3445C67C3062C4FC0021CE72 /* Release configuration for PBXNativeTarget "ex43" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		3445C6853062C50C0021CE72 /* Build configuration list for PBXNativeTarget "ex4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3445C6863062C50C0021CE72 /* Debug configuration for PBXNativeTarget "ex4" */,
+				3445C6873062C50C0021CE72 /* Release configuration for PBXNativeTarget "ex4" */,
+			);
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3405A3AE3062B4E000B4F27E /* Project object */;
+	validationLevel = 1;
+}
